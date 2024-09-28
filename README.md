@@ -29,7 +29,7 @@ Project Components:
     *win32com for voice feedback.
     
 
-    Here’s a list of the key components required for your **Facial Recognition Attendance System** project, along with a brief description of each:
+    
 
 ---
 

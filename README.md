@@ -1,3 +1,4 @@
+
 # 📸 Facial Recognition Attendance System | Python
 
 This project implements an **automatic attendance system** that leverages **facial recognition technology** to streamline the attendance process. Built using Python, it uses **OpenCV** for real-time image processing and face detection, while the **K-Nearest Neighbors (KNN)** algorithm from scikit-learn is used to classify and recognize faces.
@@ -88,3 +89,14 @@ numpy
 scikit-learn
 pickle-mixin
 pywin32
+```
+
+Then, install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+This detailed list of components will help users set up and run the **Facial Recognition Attendance System** smoothly.
